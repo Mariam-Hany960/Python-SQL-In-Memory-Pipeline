@@ -12,6 +12,7 @@ An automated, serverless data engineering pipeline designed to ingest commercial
 ## 📁 Repository Structure
 - `main.py`: The core Python data pipeline script.
 - `Data_Analytics_Official_Final_Report.pdf`: The official technical project documentation and query results.
+- `sales_dataset.xlsx`: The raw commercial transactional data spreadsheet used for ingestion.
 
 ## 🛠️ Technologies Used
 - Python (Tkinter, Pandas)
